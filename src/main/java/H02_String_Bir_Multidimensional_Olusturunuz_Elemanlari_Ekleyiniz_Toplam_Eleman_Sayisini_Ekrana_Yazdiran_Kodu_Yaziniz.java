@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class H02_StringBirMultidimensionalOlusturunuz {
+public class H02_String_Bir_Multidimensional_Olusturunuz_Elemanlari_Ekleyiniz_Toplam_Eleman_Sayisini_Ekrana_Yazdiran_Kodu_Yaziniz {
     public static void main(String[] args) {
 
         //Example 1: String bir Multidimensional olusturunuz.

@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class H01_MultidimensionalArrayNasilOlusturulur {
+public class H01_MultidimensionalArray_Nasil_Olusturulur {
     public static void main(String[] args) {
 
    //Not: Bir Array'in elemanlari Array ise BU Array'ler Multidimensional Array'dir.
